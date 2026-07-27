@@ -27,6 +27,11 @@ CREATE TABLE employees
 -- COMMAND ----------
 
 -- MAGIC %md
+-- MAGIC ![image_1785181707934.png](./image_1785181707934.png "image_1785181707934.png")
+
+-- COMMAND ----------
+
+-- MAGIC %md
 -- MAGIC ## Inserting Data
 
 -- COMMAND ----------
